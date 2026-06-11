@@ -1,0 +1,5 @@
+interface:
+  display_name: "花花公众号创作"
+  short_description: "温柔女性成长随笔公众号文章生成与排版工作流，适合自我引力风格"
+  default_prompt: "Use $huahua-wechat-creator to turn this link into a gentle women-growth WeChat essay."
+
